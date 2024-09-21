@@ -51,7 +51,7 @@ et une liste :
 2. avant le
 3. point 
 1. n'as aucune
-	2. valeur
+2. 1. valeur
 
 + différent point  
 + pour une liste
@@ -101,7 +101,7 @@ Images
 > Une simple image
 
 	[![SublimText logo]("\Image Illustratives\sublimetext.png")](https://www.https://www.sublimetext.com/)
-> Une image qui mène vers le site officiel de Sublime text
+> Une image qui mène vers le site officiel de Sublime text (c'est sensé marcher mais ça marche pas sur github ou j'ai fais une erreur)
 
 pour afficher les charactère suivant il faut mettre \\ devant :
 ```
