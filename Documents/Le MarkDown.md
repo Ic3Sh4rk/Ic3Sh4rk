@@ -51,7 +51,7 @@ et une liste :
 2. avant le
 3. point 
 1. n'as aucune
-2. 1. valeur
+ 1. valeur
 
 + différent point  
 + pour une liste
