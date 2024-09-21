@@ -17,7 +17,7 @@ Titre alt 2
 Paragraphes et leur style
 -------------------------
 
-**paragraphe** quel**c**onque
+**paragraphe** quelconque
 __2e paragraphe__ *quel*conque
 Python _est_ le meilleur langage du monde de l'informatique
 Les tiret du bas ne pevent pas être misent entre d'autres charactère contrairement aux étoiles
@@ -100,7 +100,7 @@ Images
 	![Mazda logo](E:/Banque d'image/Mazda_logo_icon.png)
 > Une simple image
 
-	[![Mazda logo](E:/Banque d'image/Sublimetext.png)](https://www.https://www.sublimetext.com/)
+	[![SublimText logo]("\Image Illustratives\sublimetext.png")](https://www.https://www.sublimetext.com/)
 > Une image qui mène vers le site officiel de Sublime text
 
 pour afficher les charactère suivant il faut mettre \\ devant :
