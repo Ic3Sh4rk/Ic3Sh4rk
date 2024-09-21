@@ -1,7 +1,7 @@
 Introduction
 ============
 
-Le language Python suis une convention pour normaliser la lisibilitée et la syntaxe dont les nom de variables, la Python Enhancement Proposals (PEP) qui est constituer d'article actif, annulé, supprimer ou en attente comme des textes de loi.
+Le language Python suit une convention pour normaliser la lisibilitée et la syntaxe dont les nom de variables, la Python Enhancement Proposals (PEP) qui est constituer d'article actif, annulé, supprimer ou en attente comme des textes de loi.
 
 Les tutoriels sur Youtube sont en générale bien fait, personnelement j'ai suivis la chaine Graven.
 
