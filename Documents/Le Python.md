@@ -1,4 +1,15 @@
+Introduction
+============
+
+Le language Python suis une convention pour normaliser la lisibilitée et la syntaxe dont les nom de variables, la Python Enhancement Proposals (PEP) qui est constituer d'article actif, annulé, supprimer ou en attente comme des textes de loi.
+
+Les tutoriels sur Youtube sont en générale bien fait, personnelement j'ai suivis la chaine Graven.
+
 1. ### Variable
+
+##### Formation des variables
+
+Le premier caractère d'une variable soit absolument être une lettre ou \_ mais par convention les noms de variable doivent être en minuscule, si la variable contient plusieur \"mot\" ceci peuvent être séparer d'un \_.
 
 ##### Entiers
 ```Python
@@ -17,6 +28,8 @@
 ##### Dictionnaires
 ``` Python
 	data:dict = {"Animals": "Cow", "Number": 5}
+
+	data
 ```
 
 ###### Fonctions
@@ -25,7 +38,7 @@
 ["Animals", "Number"]
 
 >>> tuple(data.keys())
-("Animals", "Number")
+("Animals", "Number" )
 ```
 
 2. ### Boucle for-else
