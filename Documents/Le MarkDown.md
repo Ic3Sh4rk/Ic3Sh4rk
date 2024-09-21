@@ -3,6 +3,8 @@ MarkDown
 Titres
 ------
 
+La documentation de GitHub du Markdown est disponible sur [cette page](https://docs.github.com/fr/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+
 # Titre 1
 ## Titre 2
 ### Titre 3
@@ -18,7 +20,9 @@ Paragraphes et leur style
 -------------------------
 
 **paragraphe** quelconque
+
 __2e paragraphe__ *quel*conque
+
 Python _est_ le meilleur langage du monde de l'informatique
 
 \* : *Italique*
@@ -29,11 +33,13 @@ Les tiret du bas ne pevent pas être misent entre d'autres charactère contraire
 
 
 ~~Un texte barré~~
+
 avec un emoji c'est plus cool :joy:
 
 Et un élément chimique H~2~O c'est deux fois plus cool
 
 Les indices sur github c'est en mettant la balise HTML `<sub>` H<sub>2</sub>O
+
 Ps: les balise HTML c'est ce qu'il y a entre les chevron \<\>, la majoritée des balises s'ouvre et se ferme, celles qui fermes commence par \<\\
 
 Et avec un exposant x^9^ c'est, ouais bref j'arrête
@@ -73,6 +79,7 @@ et une liste :
 - [x] Une liste
 - [ ] de 
 - [x] tâche
+
 Codes
 -----
 
@@ -138,6 +145,9 @@ Divers
 
 ---
 c'est une ligne !
+
+**Attention** entre chaque paragraphe sauter une ligne sinon ça se met sur la même ligne
+
 Il est aussi possible d'utiliser des balise **HTML** dans les fichier **Markdown** SI ET SEULENTMENT SI votre application **Markdown** vous le permet
 
 [^1]: le lien est en dessous
