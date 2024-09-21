@@ -105,9 +105,11 @@ Tableau
 | Right Align | Left Align | Center Align |
 | -----------:|:---------- |:------------:|
 | 1           | 1          |      1       |
-|          11 | 11         |      11      |
+| 11 | 11         |      11      |
 |         111 | 111        |     111      |
 |        1111 | 1111       |     1111     |
+
+mettres les espaces ne change rien mais c'est plus lisible
 
 Images
 ------
@@ -132,6 +134,7 @@ et ça cest un lien
 <louis.pouvreau@gmail.com> et ça c'est pareil en plus rapide
 
 [SLM][SLM]
+
 le lien est plus loins dans le fichier pour rendre le texte plus lisible
 (engénérale à la fin du fichier)
 
