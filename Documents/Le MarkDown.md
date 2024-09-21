@@ -29,12 +29,15 @@ Les tiret du bas ne pevent pas être misent entre d'autres charactère contraire
 
 
 ~~Un texte barré~~
-avec un emoji c'est plus cool :joy: <- smiley 
+avec un emoji c'est plus cool :joy:
+
 Et un élément chimique H~2~O c'est deux fois plus cool
+
 Les indices sur github c'est en mettant la balise HTML `<sub>` H<sub>2</sub>O
 Ps: les balise HTML c'est ce qu'il y a entre les chevron \<\>, la majoritée des balises s'ouvre et se ferme, celles qui fermes commence par \<\\
 
 Et avec un exposant x^9^ c'est, ouais bref j'arrête
+
 Les exposants sur github c'est en mettant la balise HTML `<sup>` x<sup>9</sup>
 
 
