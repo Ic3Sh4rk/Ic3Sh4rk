@@ -7,39 +7,51 @@ Les tutoriels sur Youtube sont en générale bien fait, personnelement j'ai suiv
 
 1. ## Variable
 
-##### Formation des variables
+### Formation des variables
 
 Le premier caractère d'une variable soit absolument être une lettre ou \_ mais par convention les noms de variable doivent être en minuscule, si la variable contient plusieur \"mot\" ceci peuvent être séparer d'un \_.
 
 On peut aussi définir que contient
 
-##### Entiers (int())
+### Entiers (int())
+
+Existe aussi sur Excel en VBA sous le même nom : \"Integer\"
+
 ```Python
-	tour:int = 0
+	tour: int = 0
 ```
-###### Divisions Euclidiennes
+#### Divisions Euclidiennes
 ```Python
-	bread:int = 5
-	client:int = 2
+	bread: int = 5
+	client: int = 2
 >>> bread//client # division Euclidienne
 2
 >>> bread%client # Reste de la division Euclidienne
 1
 ```
 
-#### Chaîne de caractère (str())
+
+
+### Chaîne de caractère (str())
+
+Existe aussi sur Excel en VBA sous le même nom : \"Strings\"
+
 ```Python
 	message: str
 ```
 
-##### Dictionnaires (dict())
+### Liste (list())
+
+### Tuples (tuple())
+
+### Dictionnaires (dict())
 ``` Python
 	data:dict = {"Animals": "Cow", "Number": 5}
 
 	data
 ```
 
-###### Fonctions
+2. ## Fonctions
 ``` Python
 >>>	list(data.keys())
 ["Animals", "Number"]
@@ -51,9 +63,7 @@ On peut aussi définir que contient
 Hello World
 ```
 
-
-
-2. ### Boucle for
+3. ## Boucle for
 
 ```Python
 	for i in range(1,5,2):
@@ -62,7 +72,9 @@ Hello World
 `1
 3`
 
-3. ### Fonction built-in
+3. ## Autres fonction (Built-in Function)
+
+### Fonction sur des Itérable
 
 ###### all()
 ```Python
@@ -82,7 +94,7 @@ Hello World
 
 ###### chr()
 ```Python
-	i = 97 # i peut être tout entier entre 0 et 0 1,114,111 (0x10FFFF en base 16)
+	i = 97 # i peut être tout entier entre 0 et 1,114,111 (0x10FFFF en base 16)
 	chr(i)# >>> "a"
 ```
 
