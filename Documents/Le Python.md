@@ -13,14 +13,15 @@ Le premier caractère d'une variable soit absolument être une lettre ou \_ mais
 
 On peut aussi définir que contient
 
-### Entiers (int())
+### Variables Bruts
+#### Entiers (int())
 
 Existe aussi sur Excel en VBA sous le même nom : \"Integer\"
 
 ```Python
 	tour: int = 0
 ```
-#### Divisions Euclidiennes
+##### Divisions Euclidiennes
 ```Python
 	bread: int = 5
 	client: int = 2
@@ -30,26 +31,32 @@ Existe aussi sur Excel en VBA sous le même nom : \"Integer\"
 1
 ```
 
+#### Nombre à virgule (float())
 
+Existe aussi sur Excel en VBA sous le même nom : \"float\"
 
-### Chaîne de caractère (str())
+#### Chaîne de caractère (str())
 
 Existe aussi sur Excel en VBA sous le même nom : \"Strings\"
 
 ```Python
 	message: str
 ```
+### Variables Composées
+#### Liste (list())
 
-### Liste (list())
+#### Tuples (tuple())
 
-### Tuples (tuple())
-
-### Dictionnaires (dict())
+#### Dictionnaires (dict())
 ``` Python
-	data:dict = {"Animals": "Cow", "Number": 5}
+	data: dict = {"Animals": "Cow", "Number": 5}
 
 	data
 ```
+
+### Conclusion
+
+Parmis les 6 types de variable seul les `list()` et les `tuple()` sont des variable itérable puis qu'ils peuvent contenir plusieur c'est a dire que l'on peut appelere
 
 2. ## Fonctions
 ``` Python
