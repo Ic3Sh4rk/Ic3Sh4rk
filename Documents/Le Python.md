@@ -14,7 +14,7 @@ Le premier caractère d'une variable soit absolument être une lettre ou d'un \"
 On peut aussi définir ce qu'est senser contenir la variable à l'aide des \"\:\" \+ int ou float ou str ou list ou dict ou tuple. Cette notation est strictement indicatif, elle ne sert qu'à la compréhension du programme, on peux très bien écrire : 
 
 ```Python
-	shopping_list: int = ['patates', 'courgette']
+shopping_list: int = ['patates', 'courgette']
 ```
 
 Et la variable `shopping_list` sera une liste.
