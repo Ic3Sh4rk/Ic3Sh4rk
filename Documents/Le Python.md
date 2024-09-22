@@ -5,7 +5,7 @@ Le language Python suit une convention pour normaliser la lisibilitée et la syn
 
 Les tutoriels sur Youtube sont en générale bien fait, personnelement j'ai suivis la chaine Graven.
 
-1. ### Variable
+1. ## Variable
 
 ##### Formation des variables
 
