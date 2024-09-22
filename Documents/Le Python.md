@@ -11,7 +11,9 @@ Les tutoriels sur Youtube sont en générale bien fait, personnelement j'ai suiv
 
 Le premier caractère d'une variable soit absolument être une lettre ou \_ mais par convention les noms de variable doivent être en minuscule, si la variable contient plusieur \"mot\" ceci peuvent être séparer d'un \_.
 
-##### Entiers
+On peut aussi définir que contient
+
+##### Entiers (int())
 ```Python
 	tour:int = 0
 ```
@@ -25,7 +27,12 @@ Le premier caractère d'une variable soit absolument être une lettre ou \_ mais
 1
 ```
 
-##### Dictionnaires
+#### Chaîne de caractère (str())
+```Python
+	message: str
+```
+
+##### Dictionnaires (dict())
 ``` Python
 	data:dict = {"Animals": "Cow", "Number": 5}
 
@@ -39,11 +46,21 @@ Le premier caractère d'une variable soit absolument être une lettre ou \_ mais
 
 >>> tuple(data.keys())
 ("Animals", "Number" )
+
+>>> print("hello World")
+Hello World
 ```
 
-2. ### Boucle for-else
 
-''
+
+2. ### Boucle for
+
+```Python
+	for i in range(1,5,2):
+		print(i)
+```
+`1
+3`
 
 3. ### Fonction built-in
 
